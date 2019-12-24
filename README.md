@@ -8,7 +8,7 @@ We build this dataset by crawling news articles and the associated comments from
 * __Vote__.  Each comment has upvote, downvote and abusevote information from news readers.
 * __Sentiment__. Each comment is annotated with POSITIVE, NEGATIVE or NEUTRAL by Yahoo!.
 
-![1](distribution_realease.png)
+![1](distribution_release.png)
 
 [//]: # (<img src="distribution_realease.png" width="200" height="200">)
 
