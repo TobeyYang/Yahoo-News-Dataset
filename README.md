@@ -1,5 +1,8 @@
 # Yahoo! News Dataset
-This repository contains the Yahoo! news dataset in paper [Read, Attend and Comment: A Deep Architecture for Automatic News Comment Generation (EMNLP2019)](https://www.microsoft.com/en-us/research/publication/read-attend-and-comment-a-deep-architecture-for-automatic-news-comment-generation/). The dataset is available in [tar](https://rinnaphilly24722.blob.core.windows.net/yangze/datasets/release_v1.tar.gz?st=2019-12-24T13%3A28%3A26Z&se=2022-12-25T13%3A28%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=rZ6jDQIjXc4KST7wVlRPf%2BTd60LxOXy6QQxhHgEeFJI%3D) and [zip](https://rinnaphilly24722.blob.core.windows.net/yangze/datasets/release_v1.zip?st=2019-12-24T13%3A29%3A03Z&se=2022-12-25T13%3A29%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=nPbrvcAChNbj2UXbft0ut37g9fAUPdtPNUwN%2FsKBwjk%3D).
+
+### 2021.1.22 Update the download link.
+
+This repository contains the Yahoo! news dataset in paper [Read, Attend and Comment: A Deep Architecture for Automatic News Comment Generation (EMNLP2019)](https://www.microsoft.com/en-us/research/publication/read-attend-and-comment-a-deep-architecture-for-automatic-news-comment-generation/). The dataset is available [here](https://drive.google.com/file/d/1ZJr35rclDBf-oxiIYcg4DChKSKBWgpEi/view?usp=sharing).
 
 We build this dataset by crawling news articles and the associated comments from [Yahoo! News](https://news.yahoo.com/). The side information associated with news including:
 * __Paragraph__. After pre-processing, we retain the paragraph structure of news article.
